@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rimza Rizwan</h1>
 <h3 align="center">Working as a Software QA Engineer</h3>
 
-- 🔭 I’m currently working on **Dialog One CRM & Billing**
+- 🔭 I’m currently working at **Dialog One CRM & Billing**
 
-- 🌱 I’m currently learning **Test Automation (Java + Selenium)**
+- 🌱 I’m learning **Test Automation (Java + Selenium)** andwriting test scripts
 
 - 👯 I’m looking to collaborate on **Test Automation**
 
