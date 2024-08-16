@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rimza Rizwan</h1>
 <h3 align="center">Working as a Software QA Engineer</h3>
 
-- 🔭 I’m currently working at **Enliven Designer**
+- 🔭 I’m currently working at **Enliven Designers**
 
 - 🌱 I have experience in **Test Automation (Java + Selenium)** andwriting test scripts
 
